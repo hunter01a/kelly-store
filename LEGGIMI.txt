@@ -1,0 +1,19 @@
+KEILY COSTA — sito vetrina (LuxLab)
+===================================
+Struttura:
+  index.html     → home pulita: hero video, intro, COLLEZIONE (calzature/borse/abbigliamento),
+                   fasce video (Nuovi arrivi, Gioielli), box "Il locale" e "La storia" con pulsante.
+  interno.html   → IL LOCALE: vetrina, lo spazio, i dettagli (la parte "architettonica" spostata qui).
+  storia.html    → LA STORIA di Keily: il gusto, lo stile, gallery dei suoi look.
+  assets/css     → style.css
+  assets/js      → site.js (menu, reveal allo scroll)
+  assets/img     → foto prodotti e ritratti
+  assets/video   → video di sfondo (alleggeriti per il web, senza audio)
+  assets/poster  → anteprime dei video
+
+Da personalizzare:
+  - Orari di apertura (footer: "Orari: da inserire")
+  - storia.html: paragrafo biografia di Keily (segnaposto evidenziato)
+  - Testi e didascalie prodotti, liberamente modificabili.
+
+Apri index.html in un browser per l'anteprima. Pronto da integrare in FastAPI/Jinja2.
